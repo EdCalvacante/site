@@ -1,0 +1,74 @@
+
+body{
+    background: rgb(162, 193, 201);
+}
+p{
+    text-align: center; color: rgb(223, 48, 48);position: relative;top:2.0cm
+}
+#bt1{
+
+    position:absolute; top:250px; left:350px; margin:0px; 
+    box-shadow: 1px 1px 2px;
+}
+#bt2{
+
+    position:absolute; top:250px; left:630px; margin:0px; 
+    box-shadow: 1px 1px 2px;
+}
+button{
+    position:absolute; top:250px; left:900px; margin:0px; padding:0px;text-align: center;
+    font-size: 10pt; padding: 2px 7px;color:white;background-color: rgb(182, 41, 48);
+}
+um{
+  position:absolute;top: 130mm;left: 70mm;
+}
+#dois{
+    position:absolute;top: 130mm;left: 155mm;
+
+}
+#tres{
+    position:absolute;top: 130mm;left: 233mm;
+
+}
+h1{
+    position: relative;top:280px ;left: 300px;
+}
+p{
+    position:relative;top:280px;left:300px;
+}
+
+h2{
+    text-align: center;color: rgb(197, 22, 22);
+}
+h1{
+    text-align: center;position:relative;top: 2cm;color: rgb(196, 25, 25);
+}
+p{
+    text-align: center; color: rgb(209, 31, 31);position: relative;top:2.0cm
+}
+
+#um{
+  position:absolute;top: 130mm;left: 70mm;
+}
+#dois{
+    position:absolute;top: 130mm;left: 155mm;
+
+}
+#tres{
+    position:absolute;top: 130mm;left: 233mm;
+
+}
+h1{
+    position: relative;top:280px ;left: 300px;
+}
+p{
+    position:relative;top:280px;left:300px;}
+    #list{
+        font: bolder;color: red;
+
+    }
+#img{
+ width: 150px; 
+ height: 100px; 
+    
+}
